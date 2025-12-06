@@ -1,0 +1,12 @@
+{
+  "name": "tecai-ally-bot",
+  "version": "0.1.0",
+  "description": "TecAI Ally - AI customer support chatbot using Google Gemini free tier.",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
